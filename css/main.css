@@ -3,3 +3,23 @@
     color: #8b0000;
     font-size: 40px;
 }
+.about{
+    width: 100%;
+}
+.description{
+    width: 45%;
+    float: left;
+    padding: 2%;
+    text-align: center;
+}
+.interests{
+    width: 45%;
+    float: right;
+    text-align: center;
+    
+}
+.interests ul{
+    list-style-type: none;
+    border: 10px;
+    border-color: black;
+}
